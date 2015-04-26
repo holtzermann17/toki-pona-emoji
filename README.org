@@ -1,127 +1,127 @@
-| emoji                            | toki    | shortcode                        | Primary English translation |
-|----------------------------------+---------+----------------------------------+-----------------------------|
-| :sweat_smile:                    | a       | =:sweat_smile:=                  | ah                          |
-| :crocodile:                      | akesi   | =:crocodile:=                    | non-cute animal             |
-| :no_good:                        | ala     | =:no_good:=                      | no                          |
-| :rice_scene:                     | alasa   | =:rice_scene:=                   | gather                      |
-| :earth_asia:                     | ale     | =:earth_asia:=                   | all                         |
-| :chestnut:                       | anpa    | =:chestnut:=                     | bottom                      |
-| :anger:                          | ante    | =:anger:=                        | difference                  |
-| :flags:                          | anu     | =:flags:=                        | or                          |
-| :sunrise:                        | awen    | =:sunrise:=                      | stay                        |
-| :small_orange_diamond:           | e       | =:small_orange_diamond:=         | introduce direct object     |
-| :cherries:                       | en      | =:cherries:=                     | and                         |
-| :purse:                          | esun    | =:purse:=                        | market                      |
-| :shell:                          | ijo     | =:shell:=                        | thing                       |
-| :scream:                         | ike     | =:scream:=                       | bad                         |
-| :paperclip:                      | ilo     | =:paperclip:=                    | tool                        |
-| :cyclone:                        | insa    | =:cyclone:=                      | inside                      |
-| :poop:                           | jaki    | =:poop:=                         | dirty                       |
-| :baby:                           | jan     | =:baby:=                         | person                      |
-| :seedling:                       | jelo    | =:seedling:=                     | yellow/light green          |
-| :honey_pot:                      | jo      | =:honey_pot:=                    | have                        |
-| :fish:                           | kala    | =:fish:=                         | fish                        |
-| :notes:                          | kalama  | =:notes:=                        | sound                       |
-| :horse:                          | kama    | =:horse:=                        | come                        |
-| :deciduous_tree:                 | kasi    | =:deciduous_tree:=               | plant                       |
-| :inbox_tray:                     | ken     | =:inbox_tray:=                   | can                         |
-| :closed_umbrella:                | kepeken | =:closed_umbrella:=              | use                         |
-| :pineapple:                      | kili    | =:pineapple:=                    | fruit                       |
-| :curly_loop:                     | kin     | =:curly_loop:=                   | also                        |
-| :scissors:                       | kipisi  | =:scissors:=                     | cut                         |
-| :gem:                            | kiwen   | =:gem:=                          | hard                        |
-| :rice:                           | ko      | =:rice:=                         | semi-solid substance        |
-| :dash:                           | kon     | =:dash:=                         | air                         |
-| :rainbow:                        | kule    | =:rainbow:=                      | colour                      |
-| :ear:                            | kute    | =:ear:=                          | listen                      |
-| :dolls:                          | kulupu  | =:dolls:=                        | group                       |
-| :small_blue_diamond:             | la      | =:small_blue_diamond:=           | sep. (context and sentence) |
-| :zzz:                            | lape    | =:zzz:=                          | sleep                       |
-| :sparkle:                        | laso    | =:sparkle:=                      | blue/blue-green             |
-| :older_man:                      | lawa    | =:older_man:=                    | head                        |
-| :kimono:                         | len     | =:kimono:=                       | clothing                    |
-| :snowflake:                      | lete    | =:snowflake:=                    | cold                        |
-| :small_red_triangle:             | li      | =:small_red_triangle:=           | sep. (subject and verb)     |
-| :ant:                            | lili    | =:ant:=                          | small                       |
-| :wavy_dash:                      | linja   | =:wavy_dash:=                    | long floppy thing           |
-| :file_folder:                    | lipu    | =:file_folder:=                  | flat bendable thing         |
-| :rose:                           | loje    | =:rose:=                         | red                         |
-| :ok_woman:                       | lon     | =:ok_woman:=                     | be present                  |
-| :+1:                             | luka    | =:+1:=                           | hand                        |
-| :eyeglasses:                     | lukin   | =:eyeglasses:=                   | see                         |
-| :o:                              | lupa    | =:o:=                            | hole                        |
-| :sunrise_over_mountains:         | ma      | =:sunrise_over_mountains:=       | land                        |
-| :family:                         | mama    | =:family:=                       | parent                      |
-| :moneybag:                       | mani    | =:moneybag:=                     | money                       |
-| :girl:                           | meli    | =:girl:=                         | woman                       |
-| :point_left:                     | mi      | =:point_left:=                   | I                           |
-| :man:                            | mije    | =:man:=                          | man                         |
-| :stew:                           | moku    | =:stew:=                         | food                        |
-| :skull:                          | moli    | =:skull:=                        | death                       |
-| :-1:                             | monsi   | =:-1:=                           | back                        |
-| :heart_eyes_cat:                 | mu      | =:heart_eyes_cat:=               | cute animal noise           |
-| :last_quarter_moon_with_face:    | mun     | =:last_quarter_moon_with_face:=  | moon                        |
-| :sparkling_heart:                | musi    | =:sparkling_heart:=              | fun                         |
-| :city_sunset:                    | mute    | =:city_sunset:=                  | many                        |
-| :curry:                          | namako  | =:curry:=                        | spice                       |
-| :v:                              | nanpa   | =:v:=                            | number                      |
-| :stuck_out_tongue_winking_eye:   | nasa    | =:stuck_out_tongue_winking_eye:= | silly                       |
-| :mountain_railway:               | nasin   | =:mountain_railway:=             | way                         |
-| :mount_fuji:                     | nena    | =:mount_fuji:=                   | bump                        |
-| :raised_hands:                   | ni      | =:raised_hands:=                 | this                        |
-| :flower_playing_cards:           | nimi    | =:flower_playing_cards:=         | word                        |
-| :shoe:                           | noka    | =:shoe:=                         | leg                         |
-| :wave:                           | o       | =:wave:=                         | hey!                        |
-| :eyes:                           | oko     | =:eyes:=                         | eye                         |
-| :couple_with_heart:              | olin    | =:couple_with_heart:=            | love                        |
-| :busts_in_silhouette:            | ona     | =:busts_in_silhouette:=          | she/he/it/they              |
-| :flashlight:                     | open    | =:flashlight:=                   | open                        |
-| :japanese_ogre:                  | pakala  | =:japanese_ogre:=                | blunder                     |
-| :bicyclist:                      | pali    | =:bicyclist:=                    | activity                    |
-| :tanabata_tree:                  | palisa  | =:tanabata_tree:=                | long mostly hard object     |
-| :bread:                          | pan     | =:bread:=                        | grain                       |
-| :outbox_tray:                    | pana    | =:outbox_tray:=                  | give                        |
-| :couple:                         | pata    | =:couple:=                       | brother                     |
-| :school_satchel:                 | pi      | =:school_satchel:=               | belonging to                |
-| :heartpulse:                     | pilin   | =:heartpulse:=                   | feelings                    |
-| :new_moon_with_face:             | pimeja  | =:new_moon_with_face:=           | black                       |
-| :corn:                           | pini    | =:corn:=                         | end                         |
-| :beetle:                         | pipi    | =:beetle:=                       | bug                         |
-| :two_women_holding_hands:        | poka    | =:two_women_holding_hands:=      | side                        |
-| :tea:                            | poki    | =:tea:=                          | container                   |
-| :smile:                          | pona    | =:smile:=                        | good                        |
-| :dancers:                        | sama    | =:dancers:=                      | same                        |
-| :fire:                           | seli    | =:fire:=                         | fire                        |
-| :tangerine:                      | selo    | =:tangerine:=                    | outside                     |
-| :open_hands:                     | seme    | =:open_hands:=                   | what                        |
-| :dizzy:                          | sewi    | =:dizzy:=                        | high                        |
-| :shirt:                          | sijelo  | =:shirt:=                        | body                        |
-| :arrows_clockwise:               | sike    | =:arrows_clockwise:=             | circle                      |
-| :evergreen_tree:                 | sin     | =:evergreen_tree:=               | new                         |
-| :point_right:                    | sina    | =:point_right:=                  | you                         |
-| :womans_clothes:                 | sinpin  | =:womans_clothes:=               | front                       |
-| :fountain:                       | sitelen | =:fountain:=                     | picture                     |
-| :dragon_face:                    | sona    | =:dragon_face:=                  | knowledge                   |
-| :monkey:                         | soweli  | =:monkey:=                       | animal                      |
-| :point_up:                       | suli    | =:point_up:=                     | big                         |
-| :sun_with_face:                  | suno    | =:sun_with_face:=                | sun                         |
-| :triangular_ruler:               | supa    | =:triangular_ruler:=             | horizontal surface          |
-| :lollipop:                       | suwi    | =:lollipop:=                     | candy                       |
-| :ship:                           | tan     | =:ship:=                         | from                        |
-| :moyai:                          | taso    | =:moyai:=                        | only                        |
-| :runner:                         | tawa    | =:runner:=                       | to                          |
-| :ocean:                          | telo    | =:ocean:=                        | water                       |
-| :hourglass:                      | tenpo   | =:hourglass:=                    | time                        |
-| :speech_balloon:                 | toki    | =:speech_balloon:=               | language                    |
-| :house_with_garden:              | tomo    | =:house_with_garden:=            | indoor constructed space    |
-| :fallen_leaf:                    | tu      | =:fallen_leaf:=                  | two                         |
-| :eggplant:                       | unpa    | =:eggplant:=                     | sex                         |
-| :lips:                           | uta     | =:lips:=                         | mouth                       |
-| :fist:                           | utala   | =:fist:=                         | conflict                    |
-| :full_moon_with_face:            | walo    | =:full_moon_with_face:=          | white                       |
-| :maple_leaf:                     | wan     | =:maple_leaf:=                   | one                         |
-| :bird:                           | waso    | =:bird:=                         | bird                        |
-| :zap:                            | wawa    | =:zap:=                          | energy                      |
-| :wind_chime:                     | weka    | =:wind_chime:=                   | away                        |
-| :wolf:                           | wile    | =:wolf:=                         | to want                     |
-|----------------------------------+---------+----------------------------------+-----------------------------|
+| emoticon                       | toki pona nimi | shortcode                        | Primary English translation |
+|--------------------------------+----------------+----------------------------------+-----------------------------|
+| :sweat_smile:                  | a              | =:sweat_smile:=                  | ah                          |
+| :crocodile:                    | akesi          | =:crocodile:=                    | non-cute animal             |
+| :no_good:                      | ala            | =:no_good:=                      | no                          |
+| :rice_scene:                   | alasa          | =:rice_scene:=                   | gather                      |
+| :earth_asia:                   | ale            | =:earth_asia:=                   | all                         |
+| :chestnut:                     | anpa           | =:chestnut:=                     | bottom                      |
+| :anger:                        | ante           | =:anger:=                        | difference                  |
+| :flags:                        | anu            | =:flags:=                        | or                          |
+| :sunrise:                      | awen           | =:sunrise:=                      | stay                        |
+| :small_orange_diamond:         | e              | =:small_orange_diamond:=         | introduce direct object     |
+| :cherries:                     | en             | =:cherries:=                     | and                         |
+| :purse:                        | esun           | =:purse:=                        | market                      |
+| :shell:                        | ijo            | =:shell:=                        | thing                       |
+| :scream:                       | ike            | =:scream:=                       | bad                         |
+| :paperclip:                    | ilo            | =:paperclip:=                    | tool                        |
+| :cyclone:                      | insa           | =:cyclone:=                      | inside                      |
+| :poop:                         | jaki           | =:poop:=                         | dirty                       |
+| :baby:                         | jan            | =:baby:=                         | person                      |
+| :seedling:                     | jelo           | =:seedling:=                     | yellow/light green          |
+| :honey_pot:                    | jo             | =:honey_pot:=                    | have                        |
+| :fish:                         | kala           | =:fish:=                         | fish                        |
+| :notes:                        | kalama         | =:notes:=                        | sound                       |
+| :horse:                        | kama           | =:horse:=                        | come                        |
+| :deciduous_tree:               | kasi           | =:deciduous_tree:=               | plant                       |
+| :inbox_tray:                   | ken            | =:inbox_tray:=                   | can                         |
+| :closed_umbrella:              | kepeken        | =:closed_umbrella:=              | use                         |
+| :pineapple:                    | kili           | =:pineapple:=                    | fruit                       |
+| :curly_loop:                   | kin            | =:curly_loop:=                   | also                        |
+| :scissors:                     | kipisi         | =:scissors:=                     | cut                         |
+| :gem:                          | kiwen          | =:gem:=                          | hard                        |
+| :rice:                         | ko             | =:rice:=                         | semi-solid substance        |
+| :dash:                         | kon            | =:dash:=                         | air                         |
+| :rainbow:                      | kule           | =:rainbow:=                      | colour                      |
+| :ear:                          | kute           | =:ear:=                          | listen                      |
+| :dolls:                        | kulupu         | =:dolls:=                        | group                       |
+| :small_blue_diamond:           | la             | =:small_blue_diamond:=           | sep. (context and sentence) |
+| :zzz:                          | lape           | =:zzz:=                          | sleep                       |
+| :sparkle:                      | laso           | =:sparkle:=                      | blue/blue-green             |
+| :older_man:                    | lawa           | =:older_man:=                    | head                        |
+| :kimono:                       | len            | =:kimono:=                       | clothing                    |
+| :snowflake:                    | lete           | =:snowflake:=                    | cold                        |
+| :small_red_triangle:           | li             | =:small_red_triangle:=           | sep. (subject and verb)     |
+| :ant:                          | lili           | =:ant:=                          | small                       |
+| :wavy_dash:                    | linja          | =:wavy_dash:=                    | long floppy thing           |
+| :file_folder:                  | lipu           | =:file_folder:=                  | flat bendable thing         |
+| :rose:                         | loje           | =:rose:=                         | red                         |
+| :ok_woman:                     | lon            | =:ok_woman:=                     | be present                  |
+| :+1:                           | luka           | =:+1:=                           | hand                        |
+| :eyeglasses:                   | lukin          | =:eyeglasses:=                   | see                         |
+| :o:                            | lupa           | =:o:=                            | hole                        |
+| :sunrise_over_mountains:       | ma             | =:sunrise_over_mountains:=       | land                        |
+| :family:                       | mama           | =:family:=                       | parent                      |
+| :moneybag:                     | mani           | =:moneybag:=                     | money                       |
+| :girl:                         | meli           | =:girl:=                         | woman                       |
+| :point_left:                   | mi             | =:point_left:=                   | I                           |
+| :man:                          | mije           | =:man:=                          | man                         |
+| :stew:                         | moku           | =:stew:=                         | food                        |
+| :skull:                        | moli           | =:skull:=                        | death                       |
+| :-1:                           | monsi          | =:-1:=                           | back                        |
+| :heart_eyes_cat:               | mu             | =:heart_eyes_cat:=               | cute animal noise           |
+| :last_quarter_moon_with_face:  | mun            | =:last_quarter_moon_with_face:=  | moon                        |
+| :sparkling_heart:              | musi           | =:sparkling_heart:=              | fun                         |
+| :city_sunset:                  | mute           | =:city_sunset:=                  | many                        |
+| :curry:                        | namako         | =:curry:=                        | spice                       |
+| :v:                            | nanpa          | =:v:=                            | number                      |
+| :stuck_out_tongue_winking_eye: | nasa           | =:stuck_out_tongue_winking_eye:= | silly                       |
+| :mountain_railway:             | nasin          | =:mountain_railway:=             | way                         |
+| :mount_fuji:                   | nena           | =:mount_fuji:=                   | bump                        |
+| :raised_hands:                 | ni             | =:raised_hands:=                 | this                        |
+| :flower_playing_cards:         | nimi           | =:flower_playing_cards:=         | word                        |
+| :shoe:                         | noka           | =:shoe:=                         | leg                         |
+| :wave:                         | o              | =:wave:=                         | hey!                        |
+| :eyes:                         | oko            | =:eyes:=                         | eye                         |
+| :couple_with_heart:            | olin           | =:couple_with_heart:=            | love                        |
+| :busts_in_silhouette:          | ona            | =:busts_in_silhouette:=          | she/he/it/they              |
+| :flashlight:                   | open           | =:flashlight:=                   | open                        |
+| :japanese_ogre:                | pakala         | =:japanese_ogre:=                | blunder                     |
+| :bicyclist:                    | pali           | =:bicyclist:=                    | activity                    |
+| :tanabata_tree:                | palisa         | =:tanabata_tree:=                | long mostly hard object     |
+| :bread:                        | pan            | =:bread:=                        | grain                       |
+| :outbox_tray:                  | pana           | =:outbox_tray:=                  | give                        |
+| :couple:                       | pata           | =:couple:=                       | brother                     |
+| :school_satchel:               | pi             | =:school_satchel:=               | belonging to                |
+| :heartpulse:                   | pilin          | =:heartpulse:=                   | feelings                    |
+| :new_moon_with_face:           | pimeja         | =:new_moon_with_face:=           | black                       |
+| :corn:                         | pini           | =:corn:=                         | end                         |
+| :beetle:                       | pipi           | =:beetle:=                       | bug                         |
+| :two_women_holding_hands:      | poka           | =:two_women_holding_hands:=      | side                        |
+| :tea:                          | poki           | =:tea:=                          | container                   |
+| :smile:                        | pona           | =:smile:=                        | good                        |
+| :dancers:                      | sama           | =:dancers:=                      | same                        |
+| :fire:                         | seli           | =:fire:=                         | fire                        |
+| :tangerine:                    | selo           | =:tangerine:=                    | outside                     |
+| :open_hands:                   | seme           | =:open_hands:=                   | what                        |
+| :dizzy:                        | sewi           | =:dizzy:=                        | high                        |
+| :shirt:                        | sijelo         | =:shirt:=                        | body                        |
+| :arrows_clockwise:             | sike           | =:arrows_clockwise:=             | circle                      |
+| :evergreen_tree:               | sin            | =:evergreen_tree:=               | new                         |
+| :point_right:                  | sina           | =:point_right:=                  | you                         |
+| :womans_clothes:               | sinpin         | =:womans_clothes:=               | front                       |
+| :fountain:                     | sitelen        | =:fountain:=                     | picture                     |
+| :dragon_face:                  | sona           | =:dragon_face:=                  | knowledge                   |
+| :monkey:                       | soweli         | =:monkey:=                       | animal                      |
+| :point_up:                     | suli           | =:point_up:=                     | big                         |
+| :sun_with_face:                | suno           | =:sun_with_face:=                | sun                         |
+| :triangular_ruler:             | supa           | =:triangular_ruler:=             | horizontal surface          |
+| :lollipop:                     | suwi           | =:lollipop:=                     | candy                       |
+| :ship:                         | tan            | =:ship:=                         | from                        |
+| :moyai:                        | taso           | =:moyai:=                        | only                        |
+| :runner:                       | tawa           | =:runner:=                       | to                          |
+| :ocean:                        | telo           | =:ocean:=                        | water                       |
+| :hourglass:                    | tenpo          | =:hourglass:=                    | time                        |
+| :speech_balloon:               | toki           | =:speech_balloon:=               | language                    |
+| :house_with_garden:            | tomo           | =:house_with_garden:=            | indoor constructed space    |
+| :fallen_leaf:                  | tu             | =:fallen_leaf:=                  | two                         |
+| :eggplant:                     | unpa           | =:eggplant:=                     | sex                         |
+| :lips:                         | uta            | =:lips:=                         | mouth                       |
+| :fist:                         | utala          | =:fist:=                         | conflict                    |
+| :full_moon_with_face:          | walo           | =:full_moon_with_face:=          | white                       |
+| :maple_leaf:                   | wan            | =:maple_leaf:=                   | one                         |
+| :bird:                         | waso           | =:bird:=                         | bird                        |
+| :zap:                          | wawa           | =:zap:=                          | energy                      |
+| :wind_chime:                   | weka           | =:wind_chime:=                   | away                        |
+| :wolf:                         | wile           | =:wolf:=                         | to want                     |
+|--------------------------------+----------------+----------------------------------+-----------------------------|
