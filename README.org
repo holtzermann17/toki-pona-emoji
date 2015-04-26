@@ -126,26 +126,3 @@
 | :wolf:                         | wile           | =:wolf:=                         | to want                     |
 |--------------------------------+----------------+----------------------------------+-----------------------------|
 
-Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
-
-| English                  | Toki pona                                                                                                    |
-|--------------------------+--------------------------------------------------------------------------------------------------------------|
-| Hello                    | :speech_balloon:!                                                                                            |
-| How are you?             | :point_right: :heartpulse: :small_orange_diamond: :open_hands:?                                              |
-| Reply to 'How are you?'  | :point_left: :heartpulse: :smile:.  :point_right: :smile: :earth_asia: :smile:?                              |
-| What's your name?        | :flower_playing_cards: :point_right: :small_red_triangle: :open_hands:?                                      |
-| My name is ...           | :flower_playing_cards: :point_left: :small_red_triangle: ...                                                 |
-| Where are you from?      | :point_right: :ship:  :sunrise_over_mountains: :open_hands:?                                                 |
-| I'm from ...             | :point_left: :ship: :sunrise_over_mountains: ...                                                             |
-| Pleased to meet you      | :point_left: :smile: :ship: :raised_hands:: :point_left: :dragon_face: :small_orange_diamond: :point_right:. |
-| Good night               | :zzz: :smile:                                                                                                |
-| Goodbye (leaving)        | :point_left: :runner:                                                                                        |
-| Goodbye (staying)        | :runner: :smile:                                                                                             |
-| Good luck                | :wave: :smile:                                                                                               |
-| Cheers                   | :stuck_out_tongue_winking_eye: :smile:                                                                       |
-| Have a nice day          | :sparkling_heart: :smile:                                                                                    |
-| Bon appetit              | :stew: :smile:                                                                                               |
-| Bon voyage               | :runner: :smile:                                                                                             |
-| I don't understand       | :point_left: :dragon_face: :earth_asia:                                                                      |
-| Please speak more slowly | :wave: :speech_balloon: :closed_umbrella: :hourglass: :city_sunset:                                          |
-|--------------------------+--------------------------------------------------------------------------------------------------------------|
