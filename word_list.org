@@ -46,7 +46,7 @@
 | :wavy_dash:                    | linja          | =:wavy_dash:=                    | long floppy thing           |
 | :file_folder:                  | lipu           | =:file_folder:=                  | flat bendable thing         |
 | :rose:                         | loje           | =:rose:=                         | red                         |
-| :ok_woman:                     | lon            | =:ok_woman:=                     | be present                  |
+| :bow:                          | lon            | =:bow:=                          | be present                  |
 | :+1:                           | luka           | =:+1:=                           | hand                        |
 | :eyeglasses:                   | lukin          | =:eyeglasses:=                   | see                         |
 | :o:                            | lupa           | =:o:=                            | hole                        |
