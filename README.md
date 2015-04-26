@@ -11,7 +11,7 @@ The emoji are active on Github and other places.  Suggestions about alternative 
 
 Perhaps a rendition of [these phrases](http://tokipona.net/tp/janpije/text/zompist.html)... beginning with:
 
->>> :beetle: :small_red_triangle: :ok_woman: :stew: :point_left:
+>>> :beetle: :small_red_triangle: :bow: :stew: :point_left:
 
 >>_pipi li lon moku mi_
 
