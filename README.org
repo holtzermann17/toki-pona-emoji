@@ -1,5 +1,3 @@
-* Visual dictionary
-
 | emoticon                       | toki pona nimi | shortcode                        | Primary English translation |
 |--------------------------------+----------------+----------------------------------+-----------------------------|
 | :sweat_smile:                  | a              | =:sweat_smile:=                  | ah                          |
@@ -128,9 +126,7 @@
 | :wolf:                         | wile           | =:wolf:=                         | to want                     |
 |--------------------------------+----------------+----------------------------------+-----------------------------|
 
-* Sample phrases
-
-From http://www.omniglot.com/language/phrases/tokipona.htm --
+Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
 
 | English                  | Toki pona                                                                                                    |
 |--------------------------+--------------------------------------------------------------------------------------------------------------|
@@ -153,37 +149,3 @@ From http://www.omniglot.com/language/phrases/tokipona.htm --
 | I don't understand       | :point_left: :dragon_face: :earth_asia:                                                                      |
 | Please speak more slowly | :wave: :speech_balloon: :closed_umbrella: :hourglass: :city_sunset:                                          |
 |--------------------------+--------------------------------------------------------------------------------------------------------------|
-
- 	o toki kepeken tenpo mute
-Please say that again 	o toki e ni sin
-Please write it down 	o sitelen e ni
-Do you speak Toki Pona?
-Yes, a little 	sina sona ala sona e toki pona?
-mi sona lili
-How do you say ...
-in Toki Pona? 	... li seme lon toki pona?
-Excuse me 	o weka e ike mi
-How much is this? 	ni li mani pi mute seme?
-Sorry 	mi pakala
-Please 	mi wile
-Thank you
-Response 	pona
-pona
-Where's the toilet? 	tomo telo li lon seme?
-This gentleman/lady will pay for everything 	jan mije ni li pana tan ali / jan meli ni li pana tan ali
-Would you like to dance with me? 	sina wile ala wile tawa musi poka mi?
-I love you 	mi olin e sina
-Get well soon 	o pona kepeken tenpo lili
-Leave me alone! 	o tawa weka!
-Help!
-Fire!
-Stop! 	o pana pona tawa mi!
-seli!
-o awen!
-Call the police! 	
-Christmas and New Year greetings 	
-Easter greetings 	
-Birthday greetings 	
-One language is never enough 	toki wan li pona lili. toki mute li pona mute
-My hovercraft is full of eels
-Why this phrase? 	tomo tawa lon sewi supa telo mi li jo e kala linja lon insa ali
