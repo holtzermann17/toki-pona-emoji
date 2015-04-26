@@ -10,7 +10,9 @@ See [word_list.org](https://github.com/holtzermann17/toki-pona-emoji/blob/master
 Perhaps a rendition of [these phrases](http://tokipona.net/tp/janpije/text/zompist.html)... beginning with:
 
 >>> :beetle: :small_red_triangle: :ok_woman: :stew: :point_left:
+
 >>_pipi li lon moku mi_
+
 > (Waiter, there's a fly in my soup.)
 
 But perhaps more importantly, some code (which I have already written and need to dust off) for input.  Bonus points for me if I manage to get one of the [formal grammars](http://www2.hawaii.edu/~chin/661F12/Projects/ztomaszewski.pdf) implemented along with the input method.
