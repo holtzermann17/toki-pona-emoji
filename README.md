@@ -5,7 +5,7 @@ I thought it would be interesting to select a subset of the emoticons listed on 
 
 _See [word_list.org](https://github.com/holtzermann17/toki-pona-emoji/blob/master/word_list.org) for the emoji rendition of the [classic word list](http://tokipona.net/tp/ClassicWordList.aspx) and [sample_phrases.org](https://github.com/holtzermann17/toki-pona-emoji/blob/master/sample_phrases.org) for the emoji rendition of [these basic phrases](http://www.omniglot.com/language/phrases/tokipona.htm)._
 
-The emoji are active on Github and other places.
+The emoji are active on Github and other places.  Suggestions about alternative treatments are most welcome!
 
 ## What's next
 
