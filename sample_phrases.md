@@ -1,6 +1,6 @@
-Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
+Sample phrases from <http://www.omniglot.com/language/phrases/tokipona.htm>
 
-| English                                     | Toki pona                                    |                                                                                                                                             | Original Translation                                            |
+| English                                     | Toki pona                                    | Original Translation                                            |
 |---------------------------------------------+----------------------------------------------+-----------------------------------------------------------------|
 | Hello                                       | 💬!                                          | toki!                                                           |
 | How are you?                                | 👉 💗 🔸 👐?                                 | sina pilin e seme?                                              |
@@ -21,7 +21,7 @@ Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
 | Please speak more slowly                    | 👋 💬 🌂 ⌛️ 🌆                               | o toki kepeken tenpo mute                                       |
 | Please say that again                       | 👋 💬 🔸 🙌 🌲                               | o toki e ni sin                                                 |
 | Please write it down                        | 👋 ⛲️ 🔸 🙌                                  | o sitelen e ni                                                  |
-| Do you speak Toki Pona?                     | 👉 🐲 🌏 🐲 🔸 💬 😄?                        | sina sona ala sona e toki pona?                                 |
+| Do you speak Toki Pona?                     | 👉 🐲 🙅 🐲 🔸 💬 😄?                        | sina sona ala sona e toki pona?                                 |
 | Yes, a little                               | 👈 🐲 🐜                                     | mi sona lili                                                    |
 | How do you say ... in Toki Pona?            | ... 🔺 👐 🙇 💬 😄?                          | ... li seme lon toki pona?                                      |
 | Excuse me                                   | 👋 🎐 🔸 😱 👈                               | o weka e ike mi                                                 |
@@ -41,4 +41,3 @@ Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
 | Stop!                                       | 👋 🌅!                                       | o awen!                                                         |
 | One language is never enough                | 💬 🍁 🔺 😄 🐜. 💬 🌆 🔺 😄 🌆               | toki wan li pona lili                                           |
 | My hovercraft is full of eels               | 🏡 🏃 🙇 💫 📐 🌊 👈 🔺 🍯 🔸 🐟 〰️ 🙇 🌀 🌏 | tomo tawa lon sewi supa telo mi li jo e kala linja lon insa ale |
-|---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------|
