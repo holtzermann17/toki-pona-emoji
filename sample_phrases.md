@@ -1,7 +1,7 @@
 Sample phrases from <http://www.omniglot.com/language/phrases/tokipona.htm>
 
 | English                                     | Toki pona                                    | Original Translation                                            |
-|---------------------------------------------+----------------------------------------------+-----------------------------------------------------------------|
+|---------------------------------------------|----------------------------------------------|-----------------------------------------------------------------|
 | Hello                                       | 💬!                                          | toki!                                                           |
 | How are you?                                | 👉 💗 🔸 👐?                                 | sina pilin e seme?                                              |
 | Reply to 'How are you?'                     | 👈 💗 😄.  👉 😄 🌏 😄?                      | mi pilin pona. sina pona ale pona?                              |
@@ -41,3 +41,4 @@ Sample phrases from <http://www.omniglot.com/language/phrases/tokipona.htm>
 | Stop!                                       | 👋 🌅!                                       | o awen!                                                         |
 | One language is never enough                | 💬 🍁 🔺 😄 🐜. 💬 🌆 🔺 😄 🌆               | toki wan li pona lili                                           |
 | My hovercraft is full of eels               | 🏡 🏃 🙇 💫 📐 🌊 👈 🔺 🍯 🔸 🐟 〰️ 🙇 🌀 🌏 | tomo tawa lon sewi supa telo mi li jo e kala linja lon insa ale |
+ 
