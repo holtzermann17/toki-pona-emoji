@@ -50,7 +50,7 @@
 | 👍    | luka           | `:+1:`                           | hand                        |
 | 👓    | lukin          | `:eyeglasses:`                   | see                         |
 | ⭕️    | lupa           | `:o:`                            | hole                        |
-| 🌄    | `:sunrise_over_mountains:`       | land                        |
+| 🌄    | ma             | `:sunrise_over_mountains:`       | land                        |
 | 👪    | mama           | `:family:`                       | parent                      |
 | 💰    | mani           | `:moneybag:`                     | money                       |
 | 👧    | meli           | `:girl:`                         | woman                       |
